@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "581171662854",
+    "firebase_url": "https://ip-kos.firebaseio.com",
+    "project_id": "ip-kos",
+    "storage_bucket": "ip-kos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581171662854:android:4d61e3e1909e2a0c",
+        "android_client_info": {
+          "package_name": "com.ipkos.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581171662854-74kdsrbv80go3dbdaf7vj4v8t0ru40bg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY6jFT8tfshPT3hsmXkdPQjSecSoAzdfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581171662854-74kdsrbv80go3dbdaf7vj4v8t0ru40bg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
